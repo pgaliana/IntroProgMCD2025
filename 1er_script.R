@@ -18,3 +18,6 @@ getwd()
 
 # Ejemplo 1: Estructura condicional if-else
 print("Ejemplo de Script de R")
+
+
+# IDE 
