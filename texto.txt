@@ -4,4 +4,4 @@ Ahora agregamos una línea más y vemos qué pasa.
 
 Agregamos 3ra línea y vemos qué pasa en el local (PC Pablo).
 
-4ta linea
+Conflicto
