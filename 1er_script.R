@@ -20,5 +20,5 @@ getwd()
 print("Ejemplo de Script de R")
 
 print("dhsakjdhaskdhaks")
-print ("Pepe")
+print ("pepe")
 print("Pablo")
